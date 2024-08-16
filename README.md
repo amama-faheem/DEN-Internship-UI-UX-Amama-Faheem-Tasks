@@ -8,3 +8,8 @@ Re-designed Home Page Layout
 Slight Color Variation
 ![variation](https://github.com/user-attachments/assets/626e511c-a8b7-4f7c-a06f-1da8128860e0)
 
+Aurelia Smart Home App Design
+Wireframes
+![Amama_Faheem Smart Home App Final Wireframe Pages-02](https://github.com/user-attachments/assets/08a5b14b-acdf-4e0e-affb-c715dfc35560)
+Final Prototype
+![Amama_Faheem Smart Home App Final Prototype App Pages-01](https://github.com/user-attachments/assets/2957382e-28e6-4f89-8d9e-8ed6da1bbf32)
