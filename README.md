@@ -51,3 +51,31 @@ Final Prototype
 ![Amama_Faheem Smart Home App Final Prototype App Pages-12](https://github.com/user-attachments/assets/8209d0af-0ddf-4d07-b276-25f5fce67ce2)
 
 
+
+
+Webpage Checkout Re-design
+
+Original Webpages
+![old Order page](https://github.com/user-attachments/assets/2296f446-5ff0-4184-a37a-28909d307cb0)
+![old Cart](https://github.com/user-attachments/assets/54ce4abe-a794-4ee7-a53f-367a451607cd)
+![old Checkout](https://github.com/user-attachments/assets/0f03225b-acc3-408d-b79a-57e2cca0b432)
+
+
+Re-design Wireframes:
+
+![1](https://github.com/user-attachments/assets/c36cacf2-6114-4216-abc8-5947f831d09d)
+![2](https://github.com/user-attachments/assets/86cc3c91-9fd1-465e-a4f2-852aeb61dcb2)
+![3](https://github.com/user-attachments/assets/5665f5fe-f269-4de5-b318-b3449f349d95)
+![4](https://github.com/user-attachments/assets/77004322-be26-4fef-9b7c-e8c3c69ee3f1)
+![5](https://github.com/user-attachments/assets/be0b0864-7193-4856-b170-b1ff09c7635a)
+
+
+Final Prototype
+
+
+![1](https://github.com/user-attachments/assets/f26bdcb6-41dd-493b-8af8-257706ce32d7)
+![2](https://github.com/user-attachments/assets/502c493f-3289-4ca6-bae5-c67dd45d46ac)
+![3](https://github.com/user-attachments/assets/cb36a80b-6713-469a-9821-2b4c791b1e8c)
+![4](https://github.com/user-attachments/assets/de5e3715-3a5d-4771-bfc8-eea455f3439b)
+![5](https://github.com/user-attachments/assets/1f74fe16-39e7-4384-8db8-053fe72f4748)
+![6](https://github.com/user-attachments/assets/8cc5df08-f690-43ef-902f-34953d6ce1c2)
