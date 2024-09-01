@@ -7,11 +7,19 @@ Re-designed Home Page Layout
 ![Webpage Redesign](https://github.com/user-attachments/assets/f7d64369-9256-405f-85fb-c650b96f2400)
 Slight Color Variation
 ![variation](https://github.com/user-attachments/assets/626e511c-a8b7-4f7c-a06f-1da8128860e0)
+User Persona
+![User Persona](https://github.com/user-attachments/assets/5e714ed7-d075-4e4c-b4d7-0907226b443e)
+
+Video
 
 
 
 
 Aurelia Smart Home App Design
+
+
+User Persona
+![User Persona](https://github.com/user-attachments/assets/e495b8c5-fce4-4490-93a6-1cda58543d9a)
 
 
 
@@ -55,6 +63,11 @@ Final Prototype
 
 Webpage Checkout Re-design
 
+
+User Persona
+![User Persona](https://github.com/user-attachments/assets/f2396299-bc12-4d88-9fdc-0672de1cdcaf)
+
+
 Original Webpages
 ![old Order page](https://github.com/user-attachments/assets/2296f446-5ff0-4184-a37a-28909d307cb0)
 ![old Cart](https://github.com/user-attachments/assets/54ce4abe-a794-4ee7-a53f-367a451607cd)
@@ -83,6 +96,9 @@ Final Prototype
 
 
 Website Re-design
+
+User Persona
+![User Persona](https://github.com/user-attachments/assets/e19b5f1b-41ff-44d5-b9a4-be7e91e7d8fe)
 
 
 
